@@ -115,7 +115,8 @@ body {
 
 .avatarka{
     height: 80%;
-    width: auto;
+    width: 330px;
+    height: 300px;
     margin-left: 14%;
 }
 
@@ -491,4 +492,16 @@ body {
 }
 .data1{
   width: 20%;
+}
+#aboutme1 {
+  position: absolute;
+  top: 10%; 
+  left: 50%;
+  transform: translateX(-50%);
+  color: #fff;
+  padding: 20px 40px; 
+}
+#aboutme1 h1 {
+  margin: 0; 
+  font-size: 400%
 }
